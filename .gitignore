@@ -13,8 +13,6 @@ coverage
 # production
 build
 
-# all files in rtsp-server public streams folder
-/rtsp-server/public/streams/*
 
 # misc
 .DS_Store
